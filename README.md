@@ -15,7 +15,7 @@ Rotas do facade
 
 Rotas do solid
 - GET /solid/user
-- GET /solid/user/create
+- POST /solid/user
 
 Rotas do ddd
 - GET /ddd/task
