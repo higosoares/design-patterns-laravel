@@ -19,7 +19,7 @@ Rotas do solid
 
 Rotas do ddd
 - GET /ddd/task
-- GET /ddd/task
+- POST /ddd/task
 
 Observação:
 No ddd, pro dto validar cada atributo por exemplo, dá pra usar o spatie/laravel-data via composer.
